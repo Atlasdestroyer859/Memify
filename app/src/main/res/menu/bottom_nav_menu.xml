@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_meme"
+        android:title="Memes"
+        android:icon="@drawable/ic_meme"/>
+    <item
+        android:id="@+id/nav_jokes"
+        android:title="Jokes"
+        android:icon="@drawable/ic_jokes"/>
+</menu>
